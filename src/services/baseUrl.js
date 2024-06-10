@@ -1,0 +1,1 @@
+export const base_url="https://movieserver-gjk5.onrender.com"
